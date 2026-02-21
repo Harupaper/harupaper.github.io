@@ -7,7 +7,7 @@
 
 ## 1. 프로젝트 및 채널 안내
 
-- 『폐기직전 AI, 우리집에 왔다!』
+- 『[폐기직전 AI, 우리집에 왔다!](ai-story.md)』
 -  [Harupaper Blog](https://harupaper.com)
 -  [YouTube](https://youtube.com/@harupaper_music)
   
